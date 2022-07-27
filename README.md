@@ -15,7 +15,7 @@
 
 
 <div align="center">
- ## Main skills ##
+ ## Skill I'm Studying ##
  
 <p><p/>
  
