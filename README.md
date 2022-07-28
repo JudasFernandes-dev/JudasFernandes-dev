@@ -1,8 +1,8 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ffe00&height=180&section=header&text=Judas Fernandes - Dev 🚀😎🎖️👨‍💻&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=226d39&height=180&section=header&text=Judas Fernandes - Dev 🚀😎🎖️👨‍💻&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <p><p/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7ffe00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Judas+Fernandes;I'm+30+years+old;I+from+Brasil,Recife-PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=226d39&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Judas+Fernandes;I'm+30+years+old;I+from+Brasil,Recife-PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p><p/>
 
@@ -48,4 +48,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{JudasFernandes-dev}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7ffe00&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=226d39&height=120&section=footer"/>
