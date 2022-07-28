@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=226e36&height=180&section=header&text=Judas Fernandes - Dev 🚀😎🎖️👨‍💻&fontSize=28&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=226e36&height=180&section=header&text=Judas Fernandes - Dev 🚀😎🎖️👨‍💻&fontSize=29&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 <p><p/>
 
